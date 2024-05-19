@@ -7,9 +7,11 @@ HQ (High-Quality) Balanced Equalizer Preset.
 ## Tested Devices
 - KZ EDX Pro X
 - Havit H630BT PRO ANC
+- Sennheiser HD350BT
 - Soundcore Q10
 - Havit H630BT
 - JBL Clip 3
+- Soaiy S68
 - JBL T160
 
 ### Tested Equalizers
