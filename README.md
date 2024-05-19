@@ -1,5 +1,5 @@
 # PureTone EQ
-HQ (High-Quality) Balanced Equalizer Setting.
+HQ (High-Quality) Balanced Equalizer Preset.
 
 ![image](https://github.com/hxvy0/Puretone-EQ/assets/85783692/51215426-5129-43fd-93e5-f0c28f654634)
 (Version 1.0)
