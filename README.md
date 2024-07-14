@@ -6,6 +6,7 @@ HQ (High-Quality) Balanced Equalizer Preset.
 
 ## Tested Devices
 - KZ EDX Pro X
+- Moondrop CHU II
 - Havit H630BT PRO ANC
 - Sennheiser HD350BT
 - Soundcore Q10
