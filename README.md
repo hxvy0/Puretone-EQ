@@ -10,7 +10,7 @@ HQ (High-Quality) Balanced Equalizer Preset.
 - Salnotes 7hz Zero 2
 - Havit H630BT PRO ANC
 - Sennheiser HD350BT
-- Soundcore Q10
+- Soundcore Q10i
 - Havit H630BT
 - JBL Clip 3
 - Soaiy S68
